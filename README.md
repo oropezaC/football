@@ -4,11 +4,14 @@
 
 * have installed Docker
     - [Mac](https://docs.docker.com/docker-for-mac/install/)
-    - [Windows](https://docs.docker.com/docker-for-windows/install/)
     - [Linux](https://docs.docker.com/engine/install/)
-
 * Node.js & npm installed, Recomended NVM
     -[NVM](https://heynode.com/tutorial/install-nodejs-locally-nvm)
+
+* tsc installed
+ ```
+  npm install tsc -g
+ ```
 
 ### Run project 🔧
 
@@ -21,10 +24,10 @@ Go to root project
 ## For Dockerrized
 
 ```
-    docker-compose up 
+    docker-compose up
 ```
 
-## For Local 
+## For Local
 
 ```
     npm install
