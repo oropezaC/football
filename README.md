@@ -37,3 +37,6 @@ Go to root project
 ```
     npm start
 ```
+
+## Documentation endpoints
+  [Potman Document](https://documenter.getpostman.com/view/1529591/TzXtJg4q)
